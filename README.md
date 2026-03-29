@@ -6,9 +6,7 @@ Una versión de un juego tipo Plants vs Zombies: se maneja un mundo con plantas,
 
 - `src/main/java/tp1/p2/`: código principal.
 - `src/main/java/tp1/utils/`: utilidades.
-- `src/main/resources/`: recursos (opcional).
-- `src/test/java/`: tests JUnit (por agregar).
-- `record.txt` (opcional, se crea al guardar récords) en raiz de TP_NEW.
+- `record.txt` (opcional, se crea al guardar récords).
 - `pom.xml`: configuración Maven con compilación y plugins.
 
 ## Requisitos
